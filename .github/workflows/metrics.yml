@@ -18,7 +18,7 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
-          user: tarunbisht-24
+          user: CODEPANDA-1122
           template: classic
           config_timezone: Asia/India
           committer_message: ":rocket: Update"
