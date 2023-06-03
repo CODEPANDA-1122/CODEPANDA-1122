@@ -1,7 +1,7 @@
 <!-- Dynamic typing effects -->
 <h1 align="center">
   <a href="https://github.com/CODEPANDA-1122">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=ccconsole.log(%22Hello%2C%20World!%22);TTTarun%20Wish%20you%20a%20happy%20day!&center=true&size=27">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=ccconsole.log(%22Hello%2C%20World!%22);AYUSH KUMAR MISHRA%20Wish%20you%20a%20happy%20day!&center=true&size=27">
   </a>
 </h1>
 
@@ -14,9 +14,9 @@
 ### Hi there, I'm Ayush Kumar Mishra 👋🏼👨🏻‍💻
 
 [![Gmail Badge](https://img.shields.io/badge/-ayuhkmishra30@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ayuhkmishra30@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Tarun%20Bisht-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayushkmishra97/ "Connect on LinkedIn")
-[![Twitter Badge](https://img.shields.io/badge/-@tarunbisht_24-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name= "Follow on Twitter")
-[![Whatsapp Badge](https://img.shields.io/badge/-Tarun-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/)
+[![Linkedin Badge](https://img.shields.io/badge/-Ayush%20Kumar%20Mishra-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayushkmishra97/ "Connect on LinkedIn")
+[![Twitter Badge](https://img.shields.io/badge/-@ayushkmishra-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name= "Follow on Twitter")
+[![Whatsapp Badge](https://img.shields.io/badge/-Ayush-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/)
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
@@ -52,10 +52,10 @@ I am a 2nd-year Undergaduate Student at [Pranveer Singh Institute of Tecnology](
 
 &emsp;&emsp;
 ![JAVA](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
-![React]https://img.shields.io/badge/-React-1572B6?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/-React-1572B6?style=flat-square&logo=react)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-black)
-![FireBase]https://img.shields.io/badge/-FireBase-orange)
+![FireBase](https://img.shields.io/badge/-FireBase-orange)
 ![Express](https://img.shields.io/badge/shell_script-%4285F4.svg?style=style=flat-square&logo=gnu-bash&logoColor=white)
 
 🧰 Commonly used tools:
