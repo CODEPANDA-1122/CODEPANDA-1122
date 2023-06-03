@@ -179,4 +179,4 @@ I am a 2nd-year Undergaduate Student at [Pranveer Singh Institute of Tecnology](
 [![Profile last updated](https://img.shields.io/github/last-commit/CODEPANDA-1122/CODEPANDA-1122/main?label=Last%20updated&style=flat)](https://github.com/CODEPANDA-1122/CODEPANDA-1122/commits)  ![Profile Views](https://komarev.com/ghpvc/?username=CODEPANDA-1122l&color=blue)
 
 <!-- Snake code contribution diagram -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/CODEPANDA-1122/CODEPANDA-1122/contribution-snake/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/CODEPANDA-1122/CODEPANDA-1122@main/contribution-snake/github-contribution-grid-snake.gif" /></div>
