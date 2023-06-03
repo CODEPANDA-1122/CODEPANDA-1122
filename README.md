@@ -103,7 +103,7 @@ I am a 2nd-year Undergaduate Student at [Pranveer Singh Institute of Tecnology](
 <br>
 
 <!-- metrics basic information -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/CODEPANDA-1122/CODEPANDA-1122/base_metrics.svg" alt="base metrics"/></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/CODEPANDA-1122/CODEPANDA-1122@main/base_metrics.svg" alt="base metrics"/></div>
 <br>
 
 <!-- Dynamic Quotes -->
@@ -123,14 +123,14 @@ I am a 2nd-year Undergaduate Student at [Pranveer Singh Institute of Tecnology](
 <br>
 
 <!-- GitHub Activity Graph -->
-### <h2 align="center">My Contribution Graph</h2>
+<!-- ### <h2 align="center">My Contribution Graph</h2>
 <table align="center">
   <tr>
     <td colspan="2">
       <img src="https://activity-graph.herokuapp.com/graph?username=CODEPANDA-1122&theme=dracula&bg_color=FF000000&hide_border=true" />
     </td>
   </tr>
-</table>
+</table> -->
 
 <br>
 
@@ -153,7 +153,7 @@ I am a 2nd-year Undergaduate Student at [Pranveer Singh Institute of Tecnology](
 
 <!-- plugin metrics -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/CODEPANDA-1122/CODEPANDA-1122/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
+  <img src="https://cdn.jsdelivr.net/gh/CODEPANDA-1122/CODEPANDA-1122@main/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
 </div>
 <img src="https://github.com/CODEPANDA-1122/CODEPANDA-1122/raw/main/src/coffee.png" align="right" height="275" />
 
