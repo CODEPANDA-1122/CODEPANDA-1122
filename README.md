@@ -15,7 +15,8 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-ayuhkmishra30@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ayuhkmishra30@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Ayush%20Kumar%20Mishra-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayushkmishra97/ "Connect on LinkedIn")
-[![Twitter Badge](https://img.shields.io/badge/-@ayushkmishra-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=AyushKmishra11"Follow on Twitter")
+
+[![Twitter Badge](https://img.shields.io/badge/-@ayushkmishra-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=AyushKmishra11 "Follow on Twitter")
 [![Whatsapp Badge](https://img.shields.io/badge/-Ayush-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/)
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
