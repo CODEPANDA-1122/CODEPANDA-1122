@@ -89,7 +89,7 @@ I am a 2nd-year Undergaduate Student at [Pranveer Singh Institute of Tecnology](
 <img src="https://github.com/CODEPANDA-1122/CODEPANDA-1122/raw/main/src/header.png" alt="just-img"/>
 
 <!-- profile-3d-contribution -->
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/CODEPANDA-1122/CODEPANDA-1122/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
+<div align="center" ><img src="https://cdn.jsdelivr.net/gh/CODEPANDA-1122/CODEPANDA-1122@latest/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
 
 
 # 🚀 Actions
