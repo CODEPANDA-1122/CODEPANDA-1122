@@ -10,18 +10,12 @@
 
 <br>
 
----
-### Spotify Playing 🎧
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=317gdon6ccogzyutpzwddzcamphe)
-
----
 
 ### Hi there, I'm Ayush Kumar Mishra 👋🏼👨🏻‍💻
 
 [![Gmail Badge](https://img.shields.io/badge/-ayuhkmishra30@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ayuhkmishra30@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Ayush%20Kumar%20Mishra-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ayushkmishra97/ "Connect on LinkedIn")
-[![Twitter Badge](https://img.shields.io/badge/-@ayushkmishra-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name= "Follow on Twitter")
+[![Twitter Badge](https://img.shields.io/badge/-@ayushkmishra-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=AyushKmishra11"Follow on Twitter")
 [![Whatsapp Badge](https://img.shields.io/badge/-Ayush-4AC959?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/)
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
@@ -128,15 +122,7 @@ I am a 2nd-year Undergaduate Student at [Pranveer Singh Institute of Tecnology](
 
 <br>
 
-<!-- GitHub Activity Graph -->
-<!-- ### <h2 align="center">My Contribution Graph</h2>
-<table align="center">
-  <tr>
-    <td colspan="2">
-      <img src="https://activity-graph.herokuapp.com/graph?username=CODEPANDA-1122&theme=dracula&bg_color=FF000000&hide_border=true" />
-    </td>
-  </tr>
-</table> -->
+
 
 <br>
 
@@ -167,9 +153,8 @@ I am a 2nd-year Undergaduate Student at [Pranveer Singh Institute of Tecnology](
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com//)
 [![Discord Badge](https://img.shields.io/badge/-Discord-0078FF?style=flat&logo=Discord&logoColor=white)](https://discordapp.com//)
-<!-- [![iTunes Badge](https://img.shields.io/badge/-iTunes-FF2B4B?style=flat&logo=iTunes&logoColor=white)](https://music.apple.com/in/playlist/duh/pl.u-EdAVklrIDdxoprY) -->
-<!-- [![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/6qhggfwe6s2tmqa0mz5ynmrg6?si=6502513e7c9a4da2) -->
-<!-- [![YouTube Badge](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCQvMx0IMgE02-gMTN8W4zog) -->
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/6qhggfwe6s2tmqa0mz5ynmrg6?si=6502513e7c9a4da2)
+
 
 ----
 
@@ -185,4 +170,4 @@ I am a 2nd-year Undergaduate Student at [Pranveer Singh Institute of Tecnology](
 [![Profile last updated](https://img.shields.io/github/last-commit/CODEPANDA-1122/CODEPANDA-1122/main?label=Last%20updated&style=flat)](https://github.com/CODEPANDA-1122/CODEPANDA-1122/commits)  ![Profile Views](https://komarev.com/ghpvc/?username=CODEPANDA-1122l&color=blue)
 
 <!-- Snake code contribution diagram -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/CODEPANDA-1122/CODEPANDA-1122@main/contribution-snake/github-contribution-grid-snake.gif" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/CODEPANDA-1122/CODEPANDA-1122@main/contribution-snake/github-contribution-grid-snake.svg" /></div>
