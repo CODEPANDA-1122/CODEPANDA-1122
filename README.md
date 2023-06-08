@@ -145,7 +145,7 @@ I am a 2nd-year Undergaduate Student at [Pranveer Singh Institute of Tecnology](
 
 <!-- plugin metrics -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/CODEPANDA-1122/CODEPANDA-1122@main/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
+  <img src="https://cdn.jsdelivr.net/gh/CODEPANDA-1122/CODEPANDA-1122@latest/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
 </div>
 <img src="https://github.com/CODEPANDA-1122/CODEPANDA-1122/raw/main/src/coffee.png" align="right" height="275" />
 
