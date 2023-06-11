@@ -10,6 +10,11 @@
 
 <br>
 
+---
+### Spotify Playing 🎧
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=317gdon6ccogzyutpzwddzcamphe={true|1|on|yes})
+
+---
 
 ### Hi there, I'm Ayush Kumar Mishra 👋🏼👨🏻‍💻
 
@@ -89,7 +94,7 @@ I am a 2nd-year Undergaduate Student at [Pranveer Singh Institute of Tecnology](
 <img src="https://github.com/CODEPANDA-1122/CODEPANDA-1122/raw/main/src/header.png" alt="just-img"/>
 
 <!-- profile-3d-contribution -->
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/CODEPANDA-1122/CODEPANDA-1122@latest/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
+<div align="center" ><img src="https://cdn.jsdelivr.net/gh/CODEPANDA-1122/CODEPANDA-1122/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
 
 
 # 🚀 Actions
@@ -103,7 +108,7 @@ I am a 2nd-year Undergaduate Student at [Pranveer Singh Institute of Tecnology](
 <br>
 
 <!-- metrics basic information -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/CODEPANDA-1122/CODEPANDA-1122@main/base_metrics.svg" alt="base metrics"/></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/CODEPANDA-1122/CODEPANDA-1122/base_metrics.svg" alt="base metrics"/></div>
 <br>
 
 <!-- Dynamic Quotes -->
@@ -145,7 +150,7 @@ I am a 2nd-year Undergaduate Student at [Pranveer Singh Institute of Tecnology](
 
 <!-- plugin metrics -->
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/CODEPANDA-1122/CODEPANDA-1122@latest/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
+  <img src="https://cdn.jsdelivr.net/gh/CODEPANDA-1122/CODEPANDA-1122/plugin_metrics.svg" alt="plugin metrics" width="75%"/>
 </div>
 <img src="https://github.com/CODEPANDA-1122/CODEPANDA-1122/raw/main/src/coffee.png" align="right" height="275" />
 
@@ -169,4 +174,4 @@ I am a 2nd-year Undergaduate Student at [Pranveer Singh Institute of Tecnology](
 [![Profile last updated](https://img.shields.io/github/last-commit/CODEPANDA-1122/CODEPANDA-1122/main?label=Last%20updated&style=flat)](https://github.com/CODEPANDA-1122/CODEPANDA-1122/commits)  ![Profile Views](https://komarev.com/ghpvc/?username=CODEPANDA-1122l&color=blue)
 
 <!-- Snake code contribution diagram -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/CODEPANDA-1122/CODEPANDA-1122@main/contribution-snake/github-contribution-grid-snake.svg" /></div>
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/CODEPANDA-1122/CODEPANDA-1122/contribution-snake/github-contribution-grid-snake.svg" /></div>
