@@ -12,7 +12,7 @@
 
 ---
 ### Spotify Playing 🎧
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=317gdon6ccogzyutpzwddzcamphe)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=317gdon6ccogzyutpzwddzcamphe&unique={true|1|on|yes})
 
 ---
 
