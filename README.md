@@ -10,12 +10,6 @@
 
 <br>
 
----
-### Spotify Playing 🎧
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=317gdon6ccogzyutpzwddzcamphe&unique={true|1|on|yes})
-
----
-
 ### Hi there, I'm Ayush Kumar Mishra 👋🏼👨🏻‍💻
 
 [![Gmail Badge](https://img.shields.io/badge/-ayuhkmishra30@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ayuhkmishra30@gmail.com "Connect via Email")
